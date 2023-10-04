@@ -1,0 +1,157 @@
+.bar1 {
+    width: 103px;
+    height: 36px;
+    margin-top: 1pc;
+    margin-left: -1pc;
+}
+.bar{
+    box-shadow: 0px 3px 5px gray;
+    height: 5pc;
+    width: 23pc;
+    margin-left: 28pc;
+    margin-top: 3pc;
+    margin-bottom: -4pc;
+    background-color: #f3f3ef;
+}
+h2 {
+    margin: -2pc 129px;
+    font-size: 24px;
+}
+#card{
+    background-color: rgb(229 237 239);
+    width: 23pc;
+    margin-left: 28pc;
+    margin-top: 66px;
+}
+#fa{
+    font-size: 22px;
+  
+    margin-left: 8px;
+}
+#bar {
+    margin: 0px -1pc;
+    width: 103px;
+    height: 36px;
+    float: right;
+    color: #df2121;
+}
+#g{
+    font-size: 20px;
+    margin-left: 123px;
+    margin-top: -44px;
+}
+#e{
+   color:  #df2121;
+}
+.i{
+    height: 36px;
+    width: 48px;
+    margin-top: -27px;
+}
+.e{
+    height: 35px;
+    width: 102px;
+    margin-top: -47px;
+    margin-bottom: -32px;
+    color: #df2121;
+}
+#i{
+    font-size: 20px;
+    margin-left: 19pc;
+    margin-top: -45px;
+}
+.g{
+    height: 36px;
+    width: 35px;
+    margin-top: -40px;
+}
+.h{
+    height: 36px;
+    width: 48px;
+    margin-top: -27px;
+}
+#h{
+    font-size: 20px;
+    margin-left: 209px;
+    margin-top: -43px;
+}
+.card{
+    margin-top: 21px;
+    width: 20pc;
+    height: 7pc;
+    margin-left: 24px;
+    box-shadow: 3px 2px 5px rgb(156, 156, 156);
+    background-color: white;
+    border-radius: 15px;
+}
+p{font-size: 20px;
+    margin-left: 20px;
+    margin-top: 2pc;
+    color: gray;
+}
+.bottom{
+    width: 367px;
+    height: 80px;
+    margin-left: 28pc;
+    margin-top: -63px;
+    position: absolute;
+    box-shadow: 1px 8px 6px gray;
+    background-color: #f3f3ef;
+}
+#bar1{
+    margin-top: -3pc;
+}
+.ca{
+    margin-top: 21px;
+    margin-left: 25px;
+}
+h3{
+    margin-top: 19px;
+    float: right;
+    margin-right: 12pc;
+}
+.fa{
+    height: 53px;
+    width: 30px;
+    margin-left: 16pc;
+    margin-top: -3pc;
+    margin-bottom: 8px;
+}
+@media only screen and (max-width: 600px) {
+    #bar1 {
+        /* width: 100%; Make the width 100% for smaller screens */
+        /* height: auto; Allow the height to adjust proportionally */
+        /* margin-top: 20px; Adjust the margin */
+        margin-left: -28pc;
+    }
+    .bar{
+        width: 45%;
+        margin-left: 451px;
+    }
+    #card{
+        height: 45pc;
+        width: 24pc;
+    }
+    .bottom{
+        width: 384px;
+        margin-top: -52px;
+    }
+    .card{
+        height: 138px;
+        margin-left: 37px;
+    }
+h3{
+    margin-top: 21px;
+    font-size: 26px;
+    margin-right: 153px;
+}
+.ca{
+    font-size: 25px;
+    margin-left: 15px;
+    margin-top: 16px;
+}
+    h2 {
+        font-size: 20px; 
+    }
+
+}
